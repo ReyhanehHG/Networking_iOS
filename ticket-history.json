@@ -6,19 +6,19 @@
 [{
 
   "type":"Balcony",
-  "amount":"20",
-  "price":"2000"
+  "amount":20,
+  "price":2000
 },
  {
 
   "type":"Lower Level",
-  "amount":"25",
-  "price":"700"
+  "amount":25,
+  "price":700
  },
   {
 
   "type":"CourtSide",
-  "amount":"30",
-  "price":"1500"
+  "amount":30,
+  "price":1500
  }]
 }
