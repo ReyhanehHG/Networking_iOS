@@ -1,1 +1,24 @@
-
+{"student":"Reyhaneh HG",
+"version":"2", 
+"timestamp":"2020-11-10T18:25:43+0000",
+"count":3,
+"data":
+[{
+  "id":10,
+  "ticketType":"Balcony",
+  "ticketQuantity":"20"
+  "ticketPrice":"2000"
+},
+ {
+   "id":20,
+  "ticketType":"Lower Level",
+  "ticketQuantity":"25"
+  "ticketPrice":"700"
+ },
+  {
+   "id":30,
+  "ticketType":"CourtSide",
+  "ticketQuantity":"30"
+  "ticketPrice":"1500"
+ }]
+}
