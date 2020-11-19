@@ -4,21 +4,21 @@
 "count":3,
 "data":
 [{
-  "id":10,
-  "ticketType":"Balcony",
-  "ticketQuantity":"20",
-  "ticketPrice":"2000"
+
+  "type":"Balcony",
+  "amount":"20",
+  "price":"2000"
 },
  {
-   "id":20,
-  "ticketType":"Lower Level",
-  "ticketQuantity":"25",
-  "ticketPrice":"700"
+
+  "type":"Lower Level",
+  "amount":"25",
+  "price":"700"
  },
   {
-   "id":30,
-  "ticketType":"CourtSide",
-  "ticketQuantity":"30",
-  "ticketPrice":"1500"
+
+  "type":"CourtSide",
+  "amount":"30",
+  "price":"1500"
  }]
 }
